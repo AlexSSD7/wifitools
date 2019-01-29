@@ -1,10 +1,10 @@
 # The most easiest Wi-Fi tool
 Uses Python 3 and can do many different things.
+<img src="https://i.imgur.com/ueX1hhT.png" width=500 align="right">
 * Wi-Fi Deauthentication
 * Beacon Flood with Random or Specifies SSIDs
 * Get Wi-Fi APs Location
 * Easiest Attack configuration
-<img src="https://i.imgur.com/ueX1hhT.png" width=500 align="center">
 
 # Installation
 Requirements:
